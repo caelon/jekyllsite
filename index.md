@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: "We're glad you stopped by"
+description: 'Give us a couple of minutes to tell you about ourselves.'
 image: null
 author: null
 ---

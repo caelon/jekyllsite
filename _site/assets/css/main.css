@@ -3439,8 +3439,8 @@
 				}
 
 		#banner.major {
-			height: 75vh;
-			min-height: 30em;
+			height: 33vh;
+			min-height: 20em;
 			max-height: 50em;
 		}
 
