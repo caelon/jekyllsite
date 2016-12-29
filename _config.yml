@@ -4,7 +4,7 @@ subtitle:
 email: advice@ctothink.com
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.ctothink.com" # the base hostname & protocol for your site
+url: "http://statistician-nameplate-36305.netlify.com/" # the base hostname & protocol for your site
 author:
 street_address:
 city:
